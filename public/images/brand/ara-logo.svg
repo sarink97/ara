@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <g>
+    <!-- ARA text -->
+    <path d="M10,45 L25,15 L40,45 M15,35 L35,35" fill="none" stroke="#000B3D" stroke-width="4"/>
+    <path d="M50,45 L50,15 A15,15 0 0 1 65,30 A15,15 0 0 1 50,45" fill="none" stroke="#000B3D" stroke-width="4"/>
+    <path d="M75,45 L75,15 L90,45 L105,15 L105,45" fill="none" stroke="#000B3D" stroke-width="4"/>
+  </g>
+  <!-- Networks text -->
+  <text x="10" y="55" font-family="Arial" font-size="12" fill="#000B3D">NETWORKS</text>
+</svg>
